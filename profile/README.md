@@ -8,7 +8,7 @@ We are a group of five people:
 
 - 📢 Tim Bernhard Project Manager & Allrounder
 - 📚 Demian Flury Backend Developer
-- 📚 Xavier Scherer Backend Developer
+- 📚 Xavier Scherer Head of Finance
 - 💻 Yannic Studer Frontend Developer
 - 💻 Elija Zürcher Frontend Developer
 
