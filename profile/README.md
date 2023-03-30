@@ -69,8 +69,8 @@ npm install
 
 > Elija finally knows what HTML is
 
-> Xavi needs an own branch pls
+> Xavi needs his own branch 
 
-> Demian is searching for an easy exit
+> Demian is searching for an easy exit (es schiebt)
 
 > Tim is still only existing
