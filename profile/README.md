@@ -6,11 +6,11 @@
 
 We are a group of five people:
 
-- 📢 Tim Bernhard Project Manager & Allrounder
-- 📚 Demian Flury Backend Developer
-- 📚 Xavier Scherer Head of Finance
-- 💻 Yannic Studer Frontend Developer
-- 💻 Elija Zürcher Frontend Developer
+- 📢 Tim Bernhard | Project Manager & Allrounder
+- 📚 Demian Flury | Backend Developer
+- 📚 Xavier Scherer | Head of Finance
+- 💻 Yannic Studer | Frontend Developer
+- 💻 Elija Zürcher | Frontend Developer
 
 Our goal is to provide an interface for the creators and the users. This interface enables the creators to offer courses for their own health and self-realisation. Users can then access those courses and, for example, improve their health through better nutrition and try out different workouts. The workouts cover many categories such as calisthenics, bodyweight or gym only.
 
