@@ -7,7 +7,7 @@
 We are a group of five people:
 
 - 📢 [Tim Bernhard](https://github.com/th3gumm3l) | Project Manager & Allrounder
-- 📚 [Demian Flury](https://github.com/DemianFlury) | Backend Developer
+- 📚 [Demian Flury](https://github.com/DemianFlury) | Backend Developer and overall badass
 - 📚 [Xavier Scherer](https://github.com/Tschawi) | Head of Finance
 - 💻 [Yannic Studer](https://github.com/FireNick44) | Frontend Developer
 - 💻 [Elija Zürcher](https://github.com/ElijaZuercher) | Frontend Developer
