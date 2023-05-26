@@ -6,10 +6,10 @@
 
 We are a group of five people:
 
-- 📢 [Tim Bernhard](https://github.com/th3gumm3l) | Project Manager & Allrounder
+- 📢 [Tim Bernhard](https://github.com/th3gumm3l) | Project Manager & Full Stack Developer
 - 📚 [Demian Flury](https://github.com/DemianFlury) | Backend Developer and overall badass
 - 📚 [Xavier Scherer](https://github.com/Tschawi) | Head of Finance
-- 💻 [Yannic Studer](https://github.com/FireNick44) | Frontend Developer
+- 💻 [Yannic Studer](https://github.com/FireNick44) | Full Stack Developer
 - 💻 [Elija Zürcher](https://github.com/ElijaZuercher) | Frontend Developer
 
 Our goal is to provide an interface for the creators and the users. This interface enables the creators to offer courses for their own health and self-realisation. Users can then access those courses and, for example, improve their health through better nutrition and try out different workouts. The workouts cover many categories such as calisthenics, bodyweight or gym only.
